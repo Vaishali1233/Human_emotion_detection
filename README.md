@@ -1,5 +1,4 @@
 # Emotion_detection_using_CNN
-## Made by Mansi Garg, Vishwa Bandita Jena, Vashali 
 
 ![Screenshot](emotion1.png)
 ![Screenshot](emotion2.png)
